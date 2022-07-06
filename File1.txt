@@ -1,7 +1,10 @@
 Welcome to git session!
 
-Change: to check the diff
+Change: to check the diff.
 
-Change: to fix bug1 
+Change: to fix bug1 .
 
-Change: by team mate for CR1 3-way merg with conflict
+Change: by team mate for CR1 3-way merg with conflict.
+
+Change: for bug2 to check 3-way merging with conflict.
+
