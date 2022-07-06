@@ -1,3 +1,5 @@
 Welcome to git session!
 
 Change to check the diff
+
+Change to fix bug1 
