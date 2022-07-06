@@ -13,4 +13,6 @@ Change:- By teamate for WI4 to check reabse with conflict.
 
 Change:- For CR2 to check rebase with conflict.
 
-Change:- for WI5 to chcek stash - half done work.
+Change:- For WI5 to chcek stash - half done work. Updated in remote master.
+
+Change:- by team mate CR5 on remote master for rebase with conflict.
