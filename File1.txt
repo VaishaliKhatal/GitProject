@@ -1,12 +1,14 @@
 Welcome to git session!
 
-Change:- to check the diff.
 
-Change:- to fix bug1 .
+Change:- To check the diff.
 
-Change:- by team mate for CR1 3-way merg with conflict.
+Change:- To fix bug1 .
 
-Change:- for bug2 to check 3-way merging with conflict.
+Change:- Ty team mate for CR1 3-way merg with conflict.
 
-Change:- by teamate for WI4 to check reabse with conflict.
+Change:- For bug2 to check 3-way merging with conflict.
 
+Change:- By teamate for WI4 to check reabse with conflict.
+
+Change:- For CR2 to check rebase with conflict.
